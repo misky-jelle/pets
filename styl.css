@@ -1,0 +1,706 @@
+body{
+    background-color: #E9FAFC;
+       /* padding: 5px 10%; */
+       /* width: 120%;
+       min-height: 100vh; */
+}
+#Home{
+      padding: 30px 10%;
+}
+#Doctors{
+      padding: 50px 10%;
+      background-color: aqua;
+}
+.navbar {
+      margin-left: 65%;
+      font-size: 25px;
+      color: grey;
+      text-decoration: none;
+      justify-content: space-between;
+}
+.hd {
+        margin-top: -57%;
+        font-size: 50px;
+}
+.fa{
+        margin-left: 12%;
+        /* margin-bottom: %; */
+  
+
+      
+}
+.bdy p{
+        margin-top: 3%;
+        font-size: xx-large;
+        color: orangered;
+}
+.headings h1{
+        font-size: 300%;
+}
+.iii{
+        font-size: xx-large;
+}
+.buttonn button{
+        font-size: 190%;
+        background-color: blue;
+}
+
+
+ /* .paragraph h1{
+         margin-top: -20%;
+         font-size: x-large;
+ } */
+/* .paragraph p{
+    margin-top: -3%;
+    color: orangered;
+} */
+.headings h2{
+      margin-left: 2%;
+      font-size: large;
+      margin-top: 4%;
+}
+.headings p{
+      font-size: large;
+      margin-top: -2%;
+}
+.button button{
+      font-size: large;
+      background-color: blue;
+      margin-left: 20px;
+      margin-top: 2%;
+      width: 10%;
+      height: 5%;
+}
+.doc1 {
+      font-size: 60%;
+      border-radius:solid black  35px;
+      background-color: rgb(243, 221, 221);
+      margin-left: -32% ;
+      width: 20%;
+      height:200px;
+      margin-top: -25%;
+}
+.doc1 h4{
+     
+      /* height: 90px; */
+      /* font-size: large; */
+       margin-left: 2%; 
+      margin-bottom: -10%;
+}
+.image1 img{
+      border-radius: 55%;
+      margin-left: -32% ;
+      margin-top: -16%;
+      width: 5%;
+}   
+.money{
+      border:  13%;
+      width: 9%;
+      height: 12%;
+      margin-left: -37%;
+      margin-top: -5%;
+}
+.money h1{
+margin-left: 2%;
+margin-top: 12%;
+} 
+.image img{
+        border-radius: 45%;
+      
+      /* margin-left: 0%;
+      margin-top: 0%;  */
+      margin: 5%;
+      margin-top: 2%;
+      width: 90%;
+      height: 95%;
+      padding-left:-9%;
+   
+}
+.image{
+      margin-left: 55%;
+      margin-top: 6%; 
+      border: solid 1px rgb(139, 136, 136);
+      width: 700px;
+      height: 600px;
+      border-radius: 60%;
+      border-width: 30px;
+}
+.con2{
+      background-color: #f5f9fa;
+      height: fit-content;
+      margin-top: 12%;
+}
+.words{
+      display: flex;
+     
+}
+.words-1{
+      width: 50%;
+      align-items: center;
+      margin-top: 9%;
+      
+}
+.words-2{
+      width: 40%;
+      align-items: center;
+      margin-top: 9%;
+      /* padding-top: 20%; */
+      font-size: x-large;
+}
+.ddd{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* .sss{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: -20%;
+} */
+
+/* .radio{
+      border-radius: 3%;
+      background-color: blueviolet;
+      width: 20%;
+      height: 10%;
+      padding: 3%;
+      margin-left: 1%;
+      margin-top:14% ;
+      
+}
+.radio h2{
+      
+      margin-top: -5%;
+      margin-right: 40%;
+}
+.radio span{
+      margin-top: 4%;
+      margin-left: 9%;
+}
+.ambulance{
+      border-radius: 3%;
+      background-color: blueviolet;
+      width: 20%;
+      height: 10%;
+      margin-left: 40%;
+      margin-top: -15%;
+      padding: 3%;
+}
+.ambulance h2{
+      /* font-size: xx-large; */
+      /* margin-top: -8%;
+      margin-left: 35%;
+} */
+/* .ambulance span{
+      margin-top: 2%;
+      margin-left: 35%;
+}
+.dental{
+      border-radius: 3%;
+      background-color: blueviolet;
+      width: 20%;
+      height: 9%;
+      margin-left: 73%;
+      padding: 3%;
+      margin-top: -16%;
+}
+.dental h2{
+      /* font-size: xx-large; */
+      /* margin-top: -6%;
+      margin-left: 25%;
+} */
+/* .dental span{
+      margin-top: 2%;
+      margin-left: -4%;
+} */
+.yyy{
+      display: flex;
+      
+      
+
+}
+.yyy>div{
+    background-color: #f5f9fa;
+    padding-inline: -8%;
+    border: 2px solid;
+    border-radius: 10px;
+    border: none;
+    margin-left: -3%;
+    margin-top: 2%;
+    padding: 8%;
+    justify-content: space-between;
+    /* width: min-content; */
+} 
+.gggg{
+    display: flex;
+  
+}
+.gggg>div{
+    background-color: #f5f9fa;
+    padding-inline: -38%;
+    border: 2px solid;
+    border-radius: 10px;
+    border: none;
+    margin-left: -2%;
+    margin-top: -2%;
+    padding: 8%;
+    /* width: min-content; */
+} 
+.hhu{
+      width: 50%;
+      margin-left: 60%; 
+      margin-top: -32%;  
+}
+.first{
+     width: 50%;
+    margin-left: 50%;  
+    margin-top: 11%; 
+    font-size: 30px; 
+
+}
+/* .gt{
+      margin-left: 70%;
+      margin-top: -13%;
+      border: solid #E9FAFC;
+} */
+/* .ggge{
+      display: flex;
+} */
+/* .yyy>div{
+      background-color: #f5f9fa;
+      padding-inline: 20px;
+      border: 2px solid;
+      border-radius: 10px;
+      border: none;
+      margin-left: -40px;
+} */
+
+/* .gggg>div{
+      background-color: #f5f9fa;
+      padding-inline: 30px;
+      border: 2px solid;
+      border-radius: 10px;
+      border: none;
+      margin-left: -15px;
+      margin-top: 20%;
+} */
+.hhh{
+      display: flex;
+      /* margin-left: 1%;
+      padding-inline:2% ;
+      margin-left: -3%; */
+      
+}
+ .hhh>div{
+      background-color: #f5f9fa;
+      padding-inline: -2px;
+      border: 2px solid;
+      border-radius: 10px;
+      border: none;
+      margin-left: -2%;
+      margin-top: 20%;
+      width: min-content;
+} 
+/* .hhh>div{
+      background-color: #f5f9fa;
+      height: -3px;
+      margin-left: 30%;
+      margin-top: 20%;
+} */
+
+/* .ilam{
+      display: flex;
+} */
+.btn{
+      height: 2%;
+}
+.btn1 button{
+      margin-top: 10%;
+      /* width: -40px; */
+      margin-left: 63%;
+      font-size: 40px;
+      background-color: rgb(104, 104, 202);
+      
+}
+ .ggge{
+         margin-left: 2%;
+ }
+ .sss {
+         margin-left: -4%;
+ }
+/* .a{
+    /* font-size: medium;
+    background-color: aquamarine; */
+    /* display: flex; */
+    
+/* } */ */
+/* .a>div{
+    /* background-color: #f5f9fa; */
+     /* padding-inline: 5%; 
+    border: 2px solid;
+    border-radius: 10px;
+    border: none;
+    margin-left: 5%;
+    margin-top: 5%;
+    height: 1%;
+    font-size: medium; */
+/* } */ */
+.rrr{
+    display: flex;
+     
+}
+.numberone{
+      
+      width: fit-content;
+      padding: 2%;
+}
+.numbertwo{
+
+    width: 10%;
+    margin-left: 28%;  
+    margin-top: -12%; 
+    height: 2%;
+    padding: 2%;
+
+}
+.numberthree{
+
+    width: 10%;
+    margin-left: 48%;  
+    margin-top: -13%; 
+    height: -2%;
+    padding: 2%;     
+}
+.numberfour{
+    
+    width: 10%;
+    margin-left: 68%;  
+    margin-top: -13%; 
+    height: 2%;
+    padding: 2%;      
+}
+
+
+.firsticon i{
+      
+      margin-left: 2%;
+      font-size: xx-large;
+      
+     
+}
+.hold{
+        padding: 10px 5%;
+        background-color: aqua;
+}
+.sub h1{
+      display: flex;
+      font-size: 20px;
+      margin-top: -20%;
+      margin-left: -22%;
+      
+}
+.ilam input{
+       margin-left: 40%;
+       padding: 2%;
+       font-size: 200%;
+       width: 560px;
+       border-radius: 20px;
+       margin-bottom: 3%;
+} 
+.btn2{
+    font-size: 190%;  
+    background-color:rgb(149, 149, 243); 
+    margin-left: -200px;
+    border-radius: 5%;
+
+}
+/* .sub>div{
+      background-color: #f5f9fa;
+      padding-inline: 2%;
+      border: 2px solid;
+      border-radius: 10px;
+      border: none;
+      margin-right: -2%;
+      /* margin-top: -15%; */
+
+
+/* .sub email{
+      margin-left: -10%;
+} */
+/* .surgical{
+      border-radius: 3%;
+      background-color: blueviolet;
+      width: 20%;
+      height: 10%;
+      margin-left: 1%;
+      padding: 3%;
+      margin-top:15%;
+
+}
+.surgical h2{
+      margin-top: 3%;
+}
+.surgical span{
+      margin-top: 2%;
+      margin-left: 9%; */
+/* }
+.service{
+      border-radius: 3%;
+      background-color: blueviolet;
+      width: 20%;
+      height: 10%;
+      margin-left: 40%;
+      padding: 3%;
+      margin-top: -15%;
+}
+.service h2{
+      margin-top: -8%;
+      margin-left: 35%;
+}
+.service span{
+      margin-top: 2%;
+      margin-left: 35%;
+}
+.pet{
+      border-radius: 3%;
+      background-color: blueviolet;
+      width: 20%;
+      height: 10%; */
+      /* margin-left: 75%;
+      padding: 3%;
+      margin-top: -16%;
+}
+.pet h2{
+      margin-bottom: 5%;
+      margin-left: 22%;
+}
+.pet span{
+      margin-top: -3%;
+      margin-left: 10%;
+} 
+  */
+
+  /* .first h1{
+    margin-top: -25%;
+    margin-left: -40%;
+    padding: 3%;
+}
+.first h5{
+    margin-left: -40%;  
+    margin-top: 3%;
+    padding: 3%; 
+} */
+/* .btn button{
+    margin-left: -50%; 
+    margin-top: 2%;
+    width: 15%;    
+} */
+.say{
+      display: flex;
+      padding: 40px 10%;
+}
+.say-1{
+      width: 50%;
+      align-items: center;
+}
+.say-2{
+      width: 50%;
+      align-items: center;
+}
+.comment{
+      display: flex;
+}
+.comment-1{
+      width: 50%;
+      align-items: center;
+      border: 1px solid cornsilk;
+      border-radius: 10px;
+      background-color: #f5f9fa;
+      margin-right: 1%;
+      padding: 40px 10%;
+      border: none;
+}
+.comment-2{
+      width: 50%;
+      align-items: center;
+      border: 1px solid cornsilk;
+      border-radius: 10px;
+      background-color: #f5f9fa;
+      border: none;
+      padding: 40px 10%;
+
+}
+.imaggee img{
+      width: 40%;
+      margin-left: 2%;
+      height: 170%;
+}
+
+.comments h1{
+      margin-left: 5%;
+      font-size: medium;
+      margin-top: -10%;
+}
+.comments h3{
+      margin-left: 3%;
+      font-size: x-large;
+      margin-top: -10%;
+}
+.lexa img{
+      margin-left: 4%;
+      width: 10%;
+      height: 20%;
+      border-radius: 55%;
+      font-size: 10%;
+      margin-top: 10%;
+}
+.lexa h1{
+      margin-left: 4%;
+      font-size: 10%;
+      margin-top: -10%;   
+}
+.coments2 h1{
+      margin-left: -7%;
+      font-size: 60%;
+      margin-top: -35%; 
+}
+.coments2 h5{
+      margin-left: -7%;   
+      margin-top: 5%; 
+
+}
+.lexy img{
+      margin-left: 54%;
+      width: 10%;
+      height: 20%;
+      border-radius: 55%;
+      font-size: 10%;
+      margin-top: -20%;    
+}
+.lexy h1{
+  margin-left: 54%;     
+}
+.comments img {
+      margin-left: 4%;
+      width: 9%;
+      height: 10%;
+      border-radius: 55%;
+}
+.pros h1{
+margin-left: 10%;
+}
+.pros h2{
+      margin-left: 35%;
+      margin-top: -2%;
+      color: cornflowerblue;
+}
+.fa-facebook{
+        color: white;
+        background-color: blue;
+        width: 1%;
+}
+.fa-twitter{
+        color: white;
+        background-color:rgb(0, 238, 255) ;
+}
+.fa-google-plus-official{
+        color: white;
+        background-color: rgb(127, 216, 105);
+}
+.fa-linkedin{
+        color: white;
+        background-color: rgb(109, 109, 175);
+}
+/* .phos img{
+ width: 40%;
+ height: 40%;
+ margin-bottom: 45%;
+ margin-left: 2%;
+}
+.photo2 img{
+      width: 48%;
+      height: 48%;
+      margin-left: 24%;
+      margin-top: 7%;
+}
+.photo3 img{
+      width: 48%;
+      height: 48%;
+      margin-left: 70%;
+      margin-bottom:27%;
+} */
+/* .phos img{
+      margin-top: 17%;
+      width: 20%;
+      height: 200%;
+}
+.photo2 img{
+      margin-top: -26%;
+      margin-left: 31%;
+      width: 20%;
+      height: 200%;
+}
+.photos3 img{
+      margin-bottom: 25%;
+      width: 20%;
+      height: 200%;
+}
+.phos h1{
+      margin-left: 2%;
+      margin-top: 35%;
+}
+.photo2 h1{
+      margin-left: 38%;
+}
+.photo3 h1{
+      margin-left: 78%;
+} */
+
+/* .pic1{
+      padding: 1%;
+      font-size: 20px;
+      background-color: #FFFFFF;
+      margin: 8%;
+
+
+}
+.pic2{
+      padding: 1%;
+      font-size: 20px;
+      background-color: #FFFFFF;
+      margin: 8%;
+
+
+}
+
+.pic3{
+      padding: 1%;
+      font-size: 20px;
+      background-color: #FFFFFF;
+      margin: 8%;
+
+
+} */
+/* .pic4{
+      padding: 1%;
+      font-size: 20px;
+      background-color: #FFFFFF;
+      margin: 8%;
+
+
+}
+.pic5{
+      padding: 1%;
+      font-size: 20px;
+      background-color: #FFFFFF;
+      margin: 8%;
+
+
+}
+
+
+.pic6{
+      padding: 1%;
+      font-size: 20px;
+      background-color: #FFFFFF;
+      margin: 8%;
+
+
+} */
